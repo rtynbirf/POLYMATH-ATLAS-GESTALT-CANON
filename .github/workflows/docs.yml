@@ -1,0 +1,27 @@
+name: ДОКУМЕНТАЦИЯ
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  docs:
+    name: API-документация → GitHub Pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Сборка и публикация документации (doc-gen4)
+        uses: leanprover-community/docgen-action@main
+        with:
+          lake-package-directory: .
