@@ -49,6 +49,7 @@ run_cmd do
         for a in axs do
           unless allowed.contains a do
             offenders := offenders.push s!"{c} ← forbidden axiom `{a}`"
+    IO.println s!"canon-sweep: {mod} done (consts so far: {constCount}, offenders: {offenders.size})"
   if h : offenders.size > 0 then
     let shown := offenders.take 100
     throwError "CANON-SWEEP FAILED: {offenders.size} offender(s):\n{shown}\n..."
