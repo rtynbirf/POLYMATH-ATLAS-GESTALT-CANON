@@ -33,3 +33,7 @@ jobs:
         uses: leanprover-community/docgen-action@main
         with:
           lake-package-directory: .
+          # docs/ дома — не Jekyll-сайт (нет Gemfile): build-page=true по умолчанию
+          # ронял прогон на «Could not locate Gemfile» (exit 10). API-доки doc-gen4
+          # собираются как раньше и выкладываются из docs/ без Jekyll-хвоста.
+          build-page: false
