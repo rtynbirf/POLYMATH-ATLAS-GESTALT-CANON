@@ -20,6 +20,11 @@ Co-authored-by: Aristotle (Harmonic) <aristotle-harmonic@harmonic.fun>
 
 # POLYMATH-ATLAS — формальное ядро модели знаний (Lean 4)
 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Штандарт POLYMATH-ATLAS-GESTALT-CANON: обсидиан и расплавленное золото, кузня rtynbirf" />
+</div>
+
+
 Формализация ядра модели знаний из аудита POLYMATH-ATLAS: Knowledge Object,
 Relation как самостоятельная сущность, граф знаний и граф доказательств,
 с машинно-проверенными доказательствами ключевых свойств.
