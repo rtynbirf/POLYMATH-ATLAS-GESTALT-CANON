@@ -24,6 +24,15 @@ Co-authored-by: Aristotle (Harmonic) <aristotle-harmonic@harmonic.fun>
   <img src="banner.png" width="100%" alt="Штандарт POLYMATH-ATLAS-GESTALT-CANON: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: картина кузни ПОЛИМАТ, раунд 9" />
+  <br/>
+  <img src="forge-divider.svg" width="62%" alt="разделитель кузни ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+
 
 Формализация ядра модели знаний из аудита POLYMATH-ATLAS: Knowledge Object,
 Relation как самостоятельная сущность, граф знаний и граф доказательств,
@@ -496,3 +505,10 @@ python3 runtime/gestalt_verification.py
 | `docs/`, `docs/pdf/` | архитектурные документы, PDF-кодексы и досье |
 | `runtime/` | вычислимое зеркало Gestalt (свидетели теорем) |
 | `scripts/` | автомат-страж: генератор свипа, канонический отчёт, сторож |
+
+<!--ФОРЖ:ПОДВАЛ-->
+---
+
+<div align="center">
+  <sub>◆ картина и штандарт — ручная ковка <a href="https://github.com/rtynbirf">КУЗНИ ПОЛИМАТ</a> · ЧЕЛОВЕК=АККАУНТ=PID1 ◆</sub>
+</div>
