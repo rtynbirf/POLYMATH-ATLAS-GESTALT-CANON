@@ -26,11 +26,12 @@ Co-authored-by: Aristotle (Harmonic) <aristotle-harmonic@harmonic.fun>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: картина кузни ПОЛИМАТ, раунд 9" />
+  <img src="repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 11" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="разделитель кузни ПОЛИМАТ" />
+  <img src="forge-divider.svg" width="62%" alt="делитель мастерской КАНОН ПРОПОРЦИЙ" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
+
 
 
 
