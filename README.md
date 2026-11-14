@@ -26,7 +26,7 @@ Co-authored-by: Aristotle (Harmonic) <aristotle-harmonic@harmonic.fun>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 11" />
+  <img src="repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
   <img src="forge-divider.svg" width="62%" alt="делитель мастерской КАНОН ПРОПОРЦИЙ" />
 </div>
