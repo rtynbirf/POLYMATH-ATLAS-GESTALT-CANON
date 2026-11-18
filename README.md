@@ -21,20 +21,20 @@ Co-authored-by: Aristotle (Harmonic) <aristotle-harmonic@harmonic.fun>
 # POLYMATH-ATLAS — формальное ядро модели знаний (Lean 4)
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Штандарт POLYMATH-ATLAS-GESTALT-CANON: обсидиан и расплавленное золото, кузня rtynbirf" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/banner.png" width="100%" alt="Штандарт POLYMATH-ATLAS-GESTALT-CANON: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской КАНОН ПРОПОРЦИЙ" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/forge-divider.svg" width="62%" alt="делитель мастерской КАНОН ПРОПОРЦИЙ" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы POLYMATH-ATLAS-GESTALT-CANON: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы POLYMATH-ATLAS-GESTALT-CANON: строение файлов, лексикон, числа — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
