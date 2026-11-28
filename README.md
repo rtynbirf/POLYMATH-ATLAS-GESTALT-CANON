@@ -24,6 +24,18 @@
 
 # POLYMATH-ATLAS-GESTALT-CANON
 
+<div align="center">
+
+<a href="https://github.com/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON"><img src="banner.png" width="100%" alt="POLYMATH-ATLAS-GESTALT-CANON — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
+
+# POLYMATH-ATLAS-GESTALT-CANON
+
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/.github/social-preview.png" alt="POLYMATH-ATLAS-GESTALT-CANON" width="100%"></p>
 
 This project was edited by [Aristotle](https://aristotle.harmonic.fun).
