@@ -1,3 +1,31 @@
+<div align="center">
+
+<a href="https://github.com/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON"><img src="banner.png" width="100%" alt="POLYMATH-ATLAS-GESTALT-CANON — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/forge-divider.svg" width="62%" alt="делитель мастерской КАНОН ПРОПОРЦИЙ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+<!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
+<div align="center">
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы POLYMATH-ATLAS-GESTALT-CANON №22 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+</div>
+
+| ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
+|---:|---:|---:|---|---:|
+| 375 | 25 | 1 | 2026-11-28 | 1 |
+<!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# POLYMATH-ATLAS-GESTALT-CANON
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/.github/social-preview.png" alt="POLYMATH-ATLAS-GESTALT-CANON" width="100%"></p>
+
 This project was edited by [Aristotle](https://aristotle.harmonic.fun).
 
 To cite Aristotle:
@@ -24,23 +52,9 @@ Co-authored-by: Aristotle (Harmonic) <aristotle-harmonic@harmonic.fun>
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/banner.png" width="100%" alt="Штандарт POLYMATH-ATLAS-GESTALT-CANON: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
-<!--ФОРЖ:МУЗА:НАЧАЛО-->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/repo-muse.svg" width="100%" alt="Муза POLYMATH-ATLAS-GESTALT-CANON: мастерская КАНОН ПРОПОРЦИЙ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/forge-divider.svg" width="62%" alt="делитель мастерской КАНОН ПРОПОРЦИЙ" />
-</div>
-<!--ФОРЖ:МУЗА:КОНЕЦ-->
 
-<!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/POLYMATH-ATLAS-GESTALT-CANON@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы POLYMATH-ATLAS-GESTALT-CANON: строение файлов, лексикон, числа — по фактическому контенту" />
-</div>
 
-| ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
-|---:|---:|---:|---|---:|
-| 364 | 23 | 26 | 2026-11-18 | 1 |
-<!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
 
 
 
